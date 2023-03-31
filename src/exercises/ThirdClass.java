@@ -8,4 +8,4 @@ public class ThirdClass {
         Scanner input = new Scanner(System.in);
         System.out.println("What word are you looking for? ");
 
-}
+}}
